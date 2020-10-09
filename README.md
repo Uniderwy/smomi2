@@ -78,12 +78,12 @@ lr=0.000002
 синий - train
 красныйй - val
 
-![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073021.png)
+![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073601.png)
 
 lr=0.000005
 
-красный - train
-голубой - val
+оранж - train
+синий - val
 
-![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073021.png)
+![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073742.png)
 
