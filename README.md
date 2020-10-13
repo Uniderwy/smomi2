@@ -61,14 +61,14 @@ lr=0.000002
 красный - train
 голубой - val
 
-![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073258.png)
+![alt text](https://github.com/Uniderwy/smomi2/blob/main/3d_2e-6.jpg)
 
 lr=0.000005
 
 розовый - train
 зеленый - val
 
-![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073021.png)
+![alt text](https://github.com/Uniderwy/smomi2/blob/main/3d_5e-6.jpg)
 
 
 ## Пункт 3e
@@ -78,12 +78,12 @@ lr=0.000002
 розовый - train
 зеленый - val
 
-![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073601.png)
+![alt text](https://github.com/Uniderwy/smomi2/blob/main/3e_2e-6.jpg)
 
 lr=0.000005
 
 серый - train
 оранжевый - val
 
-![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073742.png)
+![alt text](https://github.com/Uniderwy/smomi2/blob/main/3e_5e-6.jpg)
 
