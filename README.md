@@ -58,15 +58,15 @@ lr=0.0000002
 
 lr=0.000002
 
-серый - train
-оранж - val
+красный - train
+голубой - val
 
 ![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073258.png)
 
 lr=0.000005
 
-красный - train
-голубой - val
+розовый - train
+зеленый - val
 
 ![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073021.png)
 
@@ -75,15 +75,15 @@ lr=0.000005
 
 lr=0.000002
 
-синий - train
-красныйй - val
+розовый - train
+зеленый - val
 
 ![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073601.png)
 
 lr=0.000005
 
-оранж - train
-синий - val
+серый - train
+оранжевый - val
 
 ![alt text](https://github.com/Uniderwy/smomi2/blob/main/image_2020-10-09_073742.png)
 
